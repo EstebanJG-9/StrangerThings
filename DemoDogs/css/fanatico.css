@@ -1,0 +1,92 @@
+body
+{
+    background:url(../assets/img/imgfan1.jpg);
+    background-size: cover;
+}
+
+header 
+{	
+
+	margin-top: 4%;
+	margin-right: 2%;
+	margin-left: 2%;
+	text-align: center;
+
+}
+
+main h2{
+    color: antiquewhite;
+}
+
+
+header h2{
+    color: antiquewhite;
+}
+
+section, div
+{
+
+	margin-right: 2%;
+	margin-left: 2%;
+}
+section col{
+position: center;
+
+}
+
+
+
+.pad-basic
+
+{
+padding:.2%; 
+	
+}
+
+.no-btm
+{
+	margin-bottom:0%;
+}
+
+.btn-der
+{
+	text-align: right;
+}
+.h2 {
+
+    color: antiquewhite;
+}
+#sidebaricono{
+    
+        position: fixed;
+        width:75px;
+        height: 100%;
+        background :  #020202;
+        right: -40px;
+        text-align: left;
+        transition: all 500ms linear;
+       
+       
+       
+}
+
+.vertical-menuicono a {
+
+    background-color:  #020202;
+    color: rgb(228, 228, 228); 
+    display: block; 
+    padding: 12px 4px;
+    text-decoration: none; 
+    cursor: pointer;
+    margin-left: -14px;
+    border-bottom: 1px solid rgba(133, 124, 124, 0.3);
+    transition: all 500ms linear;
+     
+  }
+
+  .imagenfanatico{
+    width: 120%;
+	height: 70px;
+    padding: 4px;
+    margin-left: -5px;  
+  }
